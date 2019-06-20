@@ -1,4 +1,3 @@
-company_name,name,address
 "P. and C. Car, spoločnosť s r.o. v likvidácii P. and C. Car Ltd (anglicky) v likvidácii P. and C. Car G.m.b.H. (nemecky) v likvidácii",Aleksander I. Beskrovnyj,"Rublevskoe cesta 42, byt 91 Moskva Rusko "
 "P. and C. Car, spoločnosť s r.o. v likvidácii P. and C. Car Ltd (anglicky) v likvidácii P. and C. Car G.m.b.H. (nemecky) v likvidácii",Galina Tchistiakova,Konakovsky 8/1/191 Moskva Rusko 
 "P. and C. Car, spoločnosť s r.o. v likvidácii P. and C. Car Ltd (anglicky) v likvidácii P. and C. Car G.m.b.H. (nemecky) v likvidácii",Oleg V. Protsenko,Lubertski 40-67 Moskva Rusko 
@@ -17,6 +16,7 @@ EVA SLOVAKIA s.r.o. v likvidácii,Svetlana Morozova,Ploščaď Pobedy 1 Moskva R
 EVA SLOVAKIA s.r.o. v likvidácii,Anton Morozov,Ploščaď Pobedy 1 Moskva Ruská federatívna republika 
 SPECTRUM Silicon Technology s.r.o.,Yury Kasatkin,Lavočkina 52/84 Moskva Ruská federatívna republika 
 POPOV spol. s r.o.,Popov Igor Vladimirovič,Industrialna 54 Krasnodar Rusko 
+"STAREK, spol. s r.o. v likvidácii",Artur Nažmutdunovič Mougadov,Dagestan Ruská republika residence in the Slovak Republic : Nad Jazierkom 4 Bratislava 
 "IMPOEX, s.r.o.",Michail Michailovič Milickij,ul. Marčenko 13 V/76 Čeljabinsk Ruská federácia residence in the Slovak Republic : Vranovská 6 Bratislava 851 02 
 "IMPOEX, s.r.o.",Michail Michailovič Milickij,ul. Marčenko 13 V/76 Čeljabinsk Ruská federácia 
 "IMPOEX, s.r.o.",Ivan Nikolajevič Palutin,Prospekt V.I.Lenina 61/13 Čeljabinsk Ruská federácia 
@@ -38,6 +38,7 @@ VOTAN IMPEX spol. s r.o.,Tatiana Valová,Márii Krupskej 19 Moskva Ruská feder�
 INTERMAR Food s.r.o. v likvidácii,Sergej Stankievič,"Spiridonovka 18 Moskva, Apart 22 Rusko "
 ARETE spol. s r.o.,Viačeslav Anatolievič Medvedev,"Vešnich vod č. 6, blok 1, byt č. 110 Moskva Ruská federácia "
 "KIM TRANS, spol. s r.o.",Alexander Ivanovič Kitaev,Iskra 9 Moskva Ruská federácia residence in the Slovak Republic : Oravská 2 Bratislava 2 821 09 
+SIBELS s.r.o. v likvidácii,Irina Parfumenko,V.I.Lenina 20 Alexandrov Ruská republika 
 SLOVSEGA spol. s r.o.,Sergej Bašuk,Zakanalnaja 17 Volgograd Rusko 
 TECHNOLOGIE - EKO - SERVIS s.r.o.,Dušan Rau,Said-Galeeva 25 Kazaň Ruská federácia 
 "INACER- International  Aviation Center of  Ecology Research, s.r.o.",Viktor Makatsioubo,Volokolamská cesta 1 Moskva Rusko 
@@ -117,6 +118,10 @@ SAPFIR s.r.o.,Nikolai Pankratev,ul.Lesnaja 31 Buraševo 170000 Ruská federácia
 "A.W.B., spol. s r.o.",Andrej Vladimírovič Brouskov,"Furmanova 120, byt 24 Jekaterinburg Rusko residence in the Slovak Republic : Jakubovo nám. 2427/9 Bratislava "
 Transkontinentálna investičná korporácia SKR a.s.,Alexander Kundos,"Malojaroslaveckaja 12, b. 103 Kaluga 248000 Ruská federácia "
 Transkontinentálna investičná korporácia SKR a.s.,Andrey Davydov,"Argunovskaja 16/1, b. 182 Moskva 129075 Ruská federácia "
+"BRAT Slovakia, spol. s r.o.",Vladimir Afanassiev,ul.Razina 7 Staraja Kupavna Ruská republika residence in the Slovak Republic : Žulová 6607/6 Bratislava - mestská časť Rača 831 06 
+"BRAT Slovakia, spol. s r.o.",Alexandre Artemiev,ul.Narodnaja 1 Staraja Kupavna Ruská republika residence in the Slovak Republic : Súťažná 1125/17 Bratislava 821 08 
+"BRAT Slovakia, spol. s r.o.",Pantelei Arabov,ul.Mikrorajon 12/6 Staraja Kupavna Ruská republika residence in the Slovak Republic : Žulová 6607/6 Bratislava - mestská časť Rača 831 06 
+"BRAT Slovakia, spol. s r.o.",Vladimir Genel,ul.Mikrorajon 5/10 Staraja Kupavna Ruská republika residence in the Slovak Republic : Žulová 6607/6 Bratislava - mestská časť Rača 831 06 
 "SCROLL INVESTMENTS, s.r.o.",Igor Pavlygo,Balaklavskij pr. 3/92 Moskva Rusko residence in the Slovak Republic : Ľanová 4 Bratislava 
 "SCROLL INVESTMENTS, s.r.o.",Galina Pavlygo,Balaklavskij pr. 3/92 Moskva Rusko residence in the Slovak Republic : Ľanová 4 Bratislava 
 "SEYCOM INTERNATIONAL, s.r.o.",Ilya Zelmanov,Gorkého 2/54 Nižnij Novgorod Rusko residence in the Slovak Republic : Nezábudková 24 Bratislava 821 08 
@@ -279,6 +284,10 @@ Interportfolio s.r.o.,Alexey Kanevskiy,Odojevskogo proezd 11-2-129 Moskva 117574
 GLOBAL SLOVAKIA TELEKOM s.r.o.,Vladimír Valerievič Revazov,Verchňaja Maslovka 20 Moskva Ruská federácia 
 GLOBAL SLOVAKIA TELEKOM s.r.o.,Valerij Gavrilovič Revazov,Verchňaja Maslovka 20 Moskva Ruská federácia 
 "CAVALIER, s.r.o.",Nikolay Filippov,Gogolova ulica byt 7 4 Novosibirsk Ruská federácia 
+"GAMA-STAVBA, s.r.o.",Igor Vorshev,"Moskovskaja oblasť, Profsojuznajna 5-58 Podoľsk 142 100 Ruská republika "
+"GAMA-STAVBA, s.r.o.",Mikhail Zhavoronkov,"Moskovskaja oblasť, Podoľskaia 18/č.3 Podoľsk 142 100 Ruská republika "
+"GAMA-STAVBA, s.r.o.",Anton Piskarev,"Moskovskaja oblasť, ul. Zelionyproezd 7 Podoľsk 142 100 Ruská republika "
+"GAMA-STAVBA, s.r.o.",Andrey Piskarev,"Moskovskaja oblasť, ul. Zelionyproezd 7 Podoľsk 142 100 Ruská republika "
 "KA-MA, s.r.o.",Marina Tankaeva,Verhnenolnaya 16 Rostov na Donu 344056 Ruská federácia 
 "DONATA, s.r.o.",Elena Norit,Prospekt Lenina 70 V Kemerovo 650 099 Rusko 
 "DONATA, s.r.o.",Maxim Tunik,Vladivostokskaja 14 Petropavlovsk 683000 Ruská federácia 
